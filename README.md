@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## To launch application
-Install npm
-Install react@17
+Install npm<br>
+Install react@17<br>
 Install firebase@8.0.1
 
 ## Available Scripts
